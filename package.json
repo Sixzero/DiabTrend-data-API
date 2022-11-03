@@ -1,0 +1,25 @@
+{
+  "name": "diabtrend-data-api",
+  "version": "1.0.0",
+  "description": "DiabTrend data API for research purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sixzero/DiabTrend-data-API.git"
+  },
+  "keywords": [
+    "diabtrend"
+  ],
+  "author": "Tamás Havlik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sixzero/DiabTrend-data-API/issues"
+  },
+  "homepage": "https://github.com/Sixzero/DiabTrend-data-API#readme",
+  "dependencies": {
+    "firebase": "^8.10.1"
+  }
+}
